@@ -43,6 +43,6 @@ let layout ={
     yaxis:{
         range:[100,160]
     },
-    title:'住宅價格指數 1 4 7月份比較'
+    title:'台南市住宅價格指數112年 1 4 7月份比較'
 };
 Plotly.newPlot(myGraph, data, layout);
